@@ -1,9 +1,8 @@
 Hi 👋, I'm Ivan Bondarev.
 ___________________________
-Beginner frontend developer, currently learning and growing my skills in React, TypeScript, and modern web development 🌱👍.
+Frontend Developer specializing in React, TypeScript, and modern web technologies.
+I focus on building clean, efficient, and scalable user interfaces with attention to detail and performance.
 
-I'm actively working on personal projects ✌️, studying documentation 📚, and applying best practices 💡.
-
-Open to internships, first job opportunities, and collaborations 🤝.
+Currently working as a Frontend Developer, continuing to grow through real-world projects, code reviews, and constant learning.
 
 For any questions [Telegram](https://t.me/Avelyn5511)
